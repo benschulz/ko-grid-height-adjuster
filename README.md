@@ -1,0 +1,1 @@
+A [ko-grid](https://github.com/benschulz/ko-grid) extension to adjust the grid's height.
