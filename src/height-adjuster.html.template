@@ -1,6 +1,0 @@
-<div class="ko-grid-height-adjuster" data-bind="__gridHeightAdjuster: grid.extensions.heightAdjuster">
-    <div class="ko-grid-height-adjuster-buttons">
-        <button class="ko-grid-height-adjuster-button ko-grid-height-resetter" tabIndex="-1" data-bind="__gridHeightResetter: grid.extensions.heightAdjuster">Clear height</button>
-        <button class="ko-grid-height-adjuster-button ko-grid-height-clearer" tabIndex="-1" data-bind="__gridHeightClearer: grid.extensions.heightAdjuster">Reset height</button>
-    </div>
-</div>
